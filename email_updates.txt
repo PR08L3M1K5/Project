@@ -1,0 +1,12 @@
+login: Kamil date: Wed May 11 01:29:50 CEST 2022 description: opis konferencji Haskell cz2 
+login: Kamil date: Wed May 11 01:30:33 CEST 2022 description: opis konferencji Haskell cz2 
+login: Kamil date: Wed May 11 01:39:36 CEST 2022 description: opis konferencji Haskell cz2 
+login: Wojtek date: Wed May 11 01:41:35 CEST 2022 description: opis konferencji javy cz1 
+login: Kamil date: Wed May 11 01:42:59 CEST 2022 description: opis konferencji javy cz3 
+login: Kamil date: Wed May 11 01:43:15 CEST 2022 description: opis konferencji Haskell cz2 
+login: Wojtek date: Wed May 11 01:45:12 CEST 2022 description: opis konferencji javy cz2 
+login: Wojtek date: Wed May 11 20:47:30 CEST 2022 description: opis konferencji javy cz2 
+login: Norbert date: Wed May 11 20:48:59 CEST 2022 description: opis konferencji javy cz2 
+login: Norbert date: Thu May 12 11:58:44 CEST 2022 description: opis konferencji javy cz1 
+login: Norbert date: Thu May 12 11:59:54 CEST 2022 description: opis konferencji javy cz1 
+login: Norbert date: Thu May 12 23:12:44 CEST 2022 description: opis konferencji javy cz1 
